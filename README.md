@@ -46,13 +46,20 @@
  
  ------------------------------------------------------
   
-  ![6348248](https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png)
+
 **آموزش**
+<div align="right">
+  <a href="https://youtu.be/sn0-ABfIcx4">
+    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png" alt="Video Title" width="300">
+  </a>
+</div>
+  </details>
+</div>
 
 **روش IP6IP6**
 
 ----------------------------------
-![green-dot-clipart-3](https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png) **سرور خارج** 
+![green-dot-clipart-3](https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783) **سرور خارج** 
 
 
 
