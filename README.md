@@ -46,13 +46,13 @@
  
  ------------------------------------------------------
   
-  ![6348248](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783)
+  ![6348248](https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png)
 **آموزش**
 
 **روش IP6IP6**
 
 ----------------------------------
-![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/902a2efa-f48f-4048-bc2a-5be12143bef3) **سرور خارج** 
+![green-dot-clipart-3](https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png) **سرور خارج** 
 
 
 
