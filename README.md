@@ -1,5 +1,12 @@
-![R (2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
+
 نام پروژه : 6TO4 | GRE | GRE6 | IP6IP6 | SIT
+
+<div align="right">
+    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png" alt="Video Title" width="100">
+  </a>
+</div>
+  </details>
+</div>
 ---------------------------------------------------------------
 
 
