@@ -50,7 +50,11 @@
 
 
 ------------------------------------------
-![scri](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/cbfb72ac-eff1-46df-b5e5-a3930a4a6651)
+------------------------
+ <div align="right">
+  <details>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image"> ویدیوهای آموزشی</strong></summary>
+------------------------------------   
 **اسکریپت های کارآمد :**
 - این اسکریپت ها optional میباشد.
 
