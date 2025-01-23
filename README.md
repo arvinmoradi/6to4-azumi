@@ -34,7 +34,7 @@
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube.png" width="160" alt="Image"> ویدیوهای آموزشی</strong></summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube.png" width="90" alt="Image"> ویدیوهای آموزشی</strong></summary>
 ------------------------------------   
   
 - **ویدیوی آموزشی توسط 69**
