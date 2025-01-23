@@ -53,9 +53,9 @@
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image"> ویدیوهای آموزشی</strong></summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپت های کارآمد</strong></summary>
 ------------------------------------   
-**اسکریپت های کارآمد :**
+
 - این اسکریپت ها optional میباشد.
 
 
@@ -77,10 +77,11 @@ wget "https://raw.githubusercontent.com/hawshemi/Linux-Optimizer/main/linux-opti
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/opiran-seth)
 ```
------------------------------------------------------
-![R (a2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/716fd45e-635c-4796-b8cf-856024e5b2b2)
-**اسکریپت من**
-----------------
+------------------------
+ <div align="right">
+  <details>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپن من</strong></summary>
+------------------------------------
 
 
 - اگر با دستوردوم نتوانستید اسکریپت را اجرا کنید، نخست دستور زیر را اجرا نمایید و سپس دستور اصلی اسکریپت را اجرا نمایید.(تنها زمانی این دستور را استفاده کنید که با دستور موفق به اجرای اسکریپت نشدید)
