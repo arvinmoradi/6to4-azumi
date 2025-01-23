@@ -113,11 +113,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/
 ---------------------------------------------
 
 
------------------------------------------------------
-
-![youtube-131994968075841675](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/24202a92-aff2-4079-a6c2-9db14cd0ecd1)
-**ویدیوی آموزش**
-
------------------------------------------
 
 
