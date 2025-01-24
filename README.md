@@ -46,8 +46,8 @@
   
 - **ویدیوی آموزشی توسط 69**
 <div align="right">
-  <a href="https://youtu.be/sn0-ABfIcx4">
-    <img src="https://github.com/69learn/waterwall/blob/main/src/t.png" alt="Video Title" width="300">
+  <a href="https://youtu.be/n8KxFsSbphc?si=pQt_5c_ZZpubmQc4">
+    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube_thumbnail_maxres.jpg" alt="Video Title" width="300">
   </a>
 </div>
   </details>
