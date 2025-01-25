@@ -86,22 +86,48 @@ bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/o
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپن من</strong></summary>
 ------------------------------------
 
+- نصب یش نیاز ها
+```
+apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y
+pip3 install colorama
+sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias python=python3 && python -m pip install colorama && python -m pip install netifaces
+```
+- نسخه پایین برای سرور های دارای رم کمتر میباشد
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/lightweight.sh)"
+```
+- نسخه پایین برای سرور های دارای رم کمتر و externally managed
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/managed4.sh)"
+```
 
-- اگر با دستوردوم نتوانستید اسکریپت را اجرا کنید، نخست دستور زیر را اجرا نمایید و سپس دستور اصلی اسکریپت را اجرا نمایید.(تنها زمانی این دستور را استفاده کنید که با دستور موفق به اجرای اسکریپت نشدید)
+------------------
+- برای ubuntu24 و حتی سایر سیستم عامل ها میتوانید از این دستور استفاده نمایید ( پیش نیاز ها نصب شده باشد)- این نسخه برای سرور های با رم بالا است
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ubuntu24.sh)"
+```
+- برای ubuntu24 و سیستم عامل های دیگر با خطای externally managed - این نسخه برای سرور های با رم بالا است
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/managed3.sh)"
+```
+----------------
+- نسخه های پایین ممکن است برای همه قابل اجرا نباشد و برای سرور های با رم بالا است
+```
+apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ipipv2.py --ipv4)
+```
+
+
+- اگر با دستور بالا نتوانستید اسکریپت را اجرا کنید، نخست دستور زیر را اجرا نمایید و سپس دستور اول را دوباره اجرا کنید.
+- اگر باز هم colorama نصب نشد، دستور روبرو هم اجرا کنید .  pip3 install colorama
 
 ```
 sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias python=python3 && python -m pip install colorama && python -m pip install netifaces
-```
-- سپس این دستور را اجرا نمایید.
-
-```
-apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ipip.py --ipv4)
 ```
 --------------------------------------
  <div dir="rtl">&bull;  دستور زیر برای کسانی هست که پیش نیاز ها را در سرور، نصب شده دارند</div>
  
 ```
-python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ipip.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ipipv2.py --ipv4)
 ```
 --------------------------------------
  <div dir="rtl">&bull; اگر سرور شما خطای externally-managed-environment داد از دستور زیر اقدام به اجرای اسکریپت نمایید.</div>
@@ -109,9 +135,7 @@ python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/hea
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/managed2.sh)"
 ```
-
 ---------------------------------------------
-
 
 
 
