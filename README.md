@@ -2,7 +2,7 @@
 نام پروژه : 6TO4 | GRE | GRE6 | IP6IP6 | SIT
 
 <div align="right">
-    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/project-management.png" alt="Video Title" width="100">
+    <img src="https://github.com/arvinmoradi/6to4-azumi/blob/main/assets/119934376/project-management.png" alt="Video Title" width="100">
   </a>
 </div>
   </details>
@@ -30,7 +30,7 @@
 
 **آموزش**
 <div align="right">
-    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png" alt="Video Title" width="100">
+    <img src="https://github.com/arvinmoradi/6to4-azumi/blob/main/assets/119934376/398f8b07-65be-472e-9821-631f7b70f783.png" alt="Video Title" width="100">
   </a>
 </div>
   </details>
@@ -41,13 +41,13 @@
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube.png" width="40" alt="Image"> ویدیوهای آموزشی</strong></summary>
+    <summary><strong><img src="https://github.com/arvinmoradi/6to4-azumi/blob/main/assets/119934376/youtube.png" width="40" alt="Image"> ویدیوهای آموزشی</strong></summary>
 ------------------------------------   
   
 - **ویدیوی آموزشی توسط 69**
 <div align="right">
   <a href="https://youtu.be/n8KxFsSbphc?si=pQt_5c_ZZpubmQc4">
-    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube_thumbnail_maxres.jpg" alt="Video Title" width="300">
+    <img src="https://github.com/arvinmoradi/6to4-azumi/blob/main/assets/119934376/youtube_thumbnail_maxres.jpg" alt="Video Title" width="300">
   </a>
 </div>
   </details>
@@ -56,7 +56,7 @@
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپت های کارآمد</strong></summary>
+    <summary><strong><img src="https://github.com/arvinmoradi/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپت های کارآمد</strong></summary>
 ------------------------------------   
 
 - این اسکریپت ها optional میباشد.
@@ -83,7 +83,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/o
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپن من</strong></summary>
+    <summary><strong><img src="https://github.com/arvinmoradi/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپن من</strong></summary>
 ------------------------------------
 
 - نصب یش نیاز ها
@@ -94,26 +94,26 @@ sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias pyth
 ```
 - نسخه پایین برای سرور های دارای رم کمتر میباشد
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/lightweight.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/lightweight.sh)"
 ```
 - نسخه پایین برای سرور های دارای رم کمتر و externally managed
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/managed4.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/managed4.sh)"
 ```
 
 ------------------
 - برای ubuntu24 و حتی سایر سیستم عامل ها میتوانید از این دستور استفاده نمایید ( پیش نیاز ها نصب شده باشد)- این نسخه برای سرور های با رم بالا است
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ubuntu24.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/ubuntu24.sh)"
 ```
 - برای ubuntu24 و سیستم عامل های دیگر با خطای externally managed - این نسخه برای سرور های با رم بالا است
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/managed3.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/managed3.sh)"
 ```
 ----------------
 - نسخه های پایین ممکن است برای همه قابل اجرا نباشد و برای سرور های با رم بالا است
 ```
-apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ipipv2.py --ipv4)
+apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/ipipv2.py --ipv4)
 ```
 
 
@@ -127,15 +127,12 @@ sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias pyth
  <div dir="rtl">&bull;  دستور زیر برای کسانی هست که پیش نیاز ها را در سرور، نصب شده دارند</div>
  
 ```
-python3 <(curl -Ls https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/ipipv2.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/ipipv2.py --ipv4)
 ```
 --------------------------------------
  <div dir="rtl">&bull; اگر سرور شما خطای externally-managed-environment داد از دستور زیر اقدام به اجرای اسکریپت نمایید.</div>
  
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/69learn/6to4-azumi/refs/heads/main/managed2.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/arvinmoradi/6to4-azumi/refs/heads/main/managed2.sh)"
 ```
 ---------------------------------------------
-
-
-
